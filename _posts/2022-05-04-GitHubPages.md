@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "File Naming Policy in GitHub Pages"
+title:  "File Naming Policies in GitHub Pages"
 ---
 
 ##### Notice below

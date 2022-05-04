@@ -3,7 +3,7 @@ layout: single
 title:  "File Naming Policy in GitHub Pages"
 ---
 
-# Notice below
+##### Notice below
 
 When you create a new .md file in Github pages,
 you have to avoid naming files like 
